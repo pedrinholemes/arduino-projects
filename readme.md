@@ -8,4 +8,4 @@
 
 - [ ] Salvar Perguntas e Repostas
 - [ ] Mostrar Pontuação no final
-- [ ] Utilizar Bbiblioteca de gravar dados "permanente" no Arduino 
+- [ ] Utilizar biblioteca de gravar dados "permanente" no Arduino 
